@@ -1,2 +1,2 @@
-FROM nginx:1.28.0
-FROM redis:7.0
+FROM nginx:1.31.6
+FROM redis:8.10.2
